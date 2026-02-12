@@ -1,4 +1,4 @@
-# Easy Custom Branding for WordPress
+# Easy Custom Branding (WordPress Plugin)
 
 A complete solution to customize your WordPress branding in the admin area and on the login page. Perfect for developers and agencies looking to provide a white-label experience for their clients.
 
