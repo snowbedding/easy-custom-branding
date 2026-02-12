@@ -48,6 +48,16 @@ After installation, navigate to the settings page at **Settings → Easy Custom 
 
 Fill in the desired fields, upload your images, and click "Save Settings". The changes will be applied immediately.
 
+## 📸 Screenshots
+
+| Login Page | Admin Area |
+|------------|------------|
+| ![Login Page settings](sceenshot-1.jpg) | ![Admin Area settings](sceenshot-2.jpg) |
+
+| Email Settings | General Settings |
+|----------------|------------------|
+| ![Email Settings](sceenshot-3.jpg) | ![General Settings](sceenshot-4.jpg) |
+
 ## 📄 License
 
 Licensed under the GNU General Public License v2.0 or later.
