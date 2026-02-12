@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Custom Branding 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/snowbedding/easy-custom-branding/issues\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-11-10 01:40+0000\n"
+"PO-Revision-Date: 2025-11-10 01:40+0000\n"
+"Language: zh_CN\n"
+"X-Generator: Cursor\n"
+
+#. Plugin Name of the plugin
+#: easy-custom-branding.php
+#: includes/class-easy-custom-branding-settings.php:104
+#: includes/class-easy-custom-branding-settings.php:105
+msgid "Easy Custom Branding"
+msgstr "自定义品牌"
+
+#: includes/class-easy-custom-branding-settings.php:118
+msgid "Login Page Customization"
+msgstr "登录页面定制"
+
+#: includes/class-easy-custom-branding-settings.php:126
+msgid "Admin Area Customization"
+msgstr "后台区域定制"
+
+#: includes/class-easy-custom-branding-settings.php:134
+msgid "General Settings"
+msgstr "通用设置"
+
+#: includes/class-easy-custom-branding-settings.php:142
+msgid "Email Settings"
+msgstr "电子邮件设置"
+
+#: includes/class-easy-custom-branding-settings.php:149
+msgid "Admin Bar Logo"
+msgstr "后台工具栏徽标"
+
+#: includes/class-easy-custom-branding-settings.php:149
+msgid "Recommended size: 20x20 pixels."
+msgstr "推荐尺寸：20x20 像素。"
+
+#: includes/class-easy-custom-branding-settings.php:150
+msgid "Admin Footer Text"
+msgstr "后台页脚文本"
+
+#: includes/class-easy-custom-branding-settings.php:151
+msgid "Custom Admin Version Text"
+msgstr "自定义后台版本文本"
+
+#: includes/class-easy-custom-branding-settings.php:151
+msgid "Replaces the WordPress version number in the bottom right corner of the admin area."
+msgstr "替换后台区域右下角的 WordPress 版本号。"
+
+#: includes/class-easy-custom-branding-settings.php:152
+msgid "Custom Admin CSS"
+msgstr "自定义后台 CSS"
+
+#: includes/class-easy-custom-branding-settings.php:153
+msgid "Hide Dashboard Widgets"
+msgstr "隐藏仪表盘小工具"
+
+#: includes/class-easy-custom-branding-settings.php:154
+msgid "At a Glance"
+msgstr "概览"
+
+#: includes/class-easy-custom-branding-settings.php:155
+msgid "Activity"
+msgstr "活动"
+
+#: includes/class-easy-custom-branding-settings.php:156
+msgid "Quick Draft"
+msgstr "快速草稿"
+
+#: includes/class-easy-custom-branding-settings.php:157
+msgid "WordPress Events and News"
+msgstr "WordPress 活动和新闻"
+
+#: includes/class-easy-custom-branding-settings.php:158
+msgid "Site Health Status"
+msgstr "站点健康状态"
+
+#: includes/class-easy-custom-branding-settings.php:159
+msgid "Welcome Panel"
+msgstr "欢迎面板"
+
+#: includes/class-easy-custom-branding-settings.php:161
+msgid "Hide Admin Menu Items"
+msgstr "隐藏后台菜单项"
+
+#: includes/class-easy-custom-branding-settings.php:161
+msgid "Hide selected menu items for all non-administrator users."
+msgstr "为所有非管理员用户隐藏选定的菜单项。"
+
+#: includes/class-easy-custom-branding-settings.php:162
+msgid "Hide Help Tabs"
+msgstr "隐藏帮助选项卡"
+
+#: includes/class-easy-custom-branding-settings.php:163
+msgid "Hide Screen Options"
+msgstr "隐藏显示选项"
+
+#: includes/class-easy-custom-branding-settings.php:166
+msgid "Login Logo"
+msgstr "登录徽标"
+
+#: includes/class-easy-custom-branding-settings.php:167
+msgid "Login Logo Width"
+msgstr "登录徽标宽度"
+
+#: includes/class-easy-custom-branding-settings.php:167
+msgid "Defaults to the uploaded image width. You can override it here."
+msgstr "默认为上传图片的宽度。您可以在此处覆盖它。"
+
+#: includes/class-easy-custom-branding-settings.php:168
+msgid "Login Logo Height"
+msgstr "登录徽标高度"
+
+#: includes/class-easy-custom-branding-settings.php:168
+msgid "Defaults to the uploaded image height. You can override it here."
+msgstr "默认为上传图片的高度。您可以在此处覆盖它。"
+
+#: includes/class-easy-custom-branding-settings.php:169
+msgid "Login Logo Link"
+msgstr "登录徽标链接"
+
+#: includes/class-easy-custom-branding-settings.php:170
+msgid "Login Logo Screen Reader Text"
+msgstr "登录徽标屏幕阅读器文本"
+
+#: includes/class-easy-custom-branding-settings.php:170
+msgid "This text is used for screen readers and is not visually displayed."
+msgstr "此文本用于屏幕阅读器，不会在视觉上显示。"
+
+#: includes/class-easy-custom-branding-settings.php:171
+msgid "Login Background Image"
+msgstr "登录背景图片"
+
+#: includes/class-easy-custom-branding-settings.php:172
+msgid "Form Background Color"
+msgstr "表单背景颜色"
+
+#: includes/class-easy-custom-branding-settings.php:173
+msgid "Form Text Color"
+msgstr "表单文本颜色"
+
+#: includes/class-easy-custom-branding-settings.php:174
+msgid "Button Background Color"
+msgstr "按钮背景颜色"
+
+#: includes/class-easy-custom-branding-settings.php:175
+msgid "Button Text Color"
+msgstr "按钮文本颜色"
+
+#: includes/class-easy-custom-branding-settings.php:176
+msgid "Custom Login CSS"
+msgstr "自定义登录 CSS"
+
+#: includes/class-easy-custom-branding-settings.php:177
+msgid "Custom HTML"
+msgstr "自定义 HTML"
+
+#: includes/class-easy-custom-branding-settings.php:177
+msgid "This content will be displayed below the login form."
+msgstr "此内容将显示在登录表单下方。"
+
+#: includes/class-easy-custom-branding-settings.php:180
+msgid "From Name"
+msgstr "发件人名称"
+
+#: includes/class-easy-custom-branding-settings.php:181
+msgid "From Email Address"
+msgstr "发件人电子邮件地址"
+
+#: includes/class-easy-custom-branding-settings.php:184
+msgid "Hide Admin Bar"
+msgstr "隐藏管理栏"
+
+#: includes/class-easy-custom-branding-settings.php:184
+msgid "Hide the admin bar for all users except administrators on the frontend."
+msgstr "在前台为除管理员外的所有用户隐藏管理栏。"
+
+#: includes/class-easy-custom-branding-settings.php:185
+msgid "Cleanup Header"
+msgstr "清理头部"
+
+#: includes/class-easy-custom-branding-settings.php:185
+msgid "Remove unnecessary meta tags from the site header (e.g., WP version, RSD link)."
+msgstr "从站点头部删除不必要的元标签（例如，WP 版本，RSD 链接）。"
+
+#: includes/class-easy-custom-branding-settings.php:186
+msgid "Disable Password Strength Meter"
+msgstr "禁用密码强度计"
+
+#: includes/class-easy-custom-branding-settings.php:186
+msgid "Disable the password strength meter on WooCommerce forms."
+msgstr "在 WooCommerce 表单上禁用密码强度计。"
+
+#: includes/class-easy-custom-branding-settings.php:264
+msgid "Upload Image"
+msgstr "上传图片"
+
+#: includes/class-easy-custom-branding-settings.php:266
+msgid "Remove"
+msgstr "移除"
+
+#: includes/class-easy-custom-branding-settings.php:303
+msgid "GitHub Repository"
+msgstr "GitHub 仓库"
+
+#: includes/class-easy-custom-branding-settings.php:311
+msgid "Save Settings"
+msgstr "保存设置"
+
+#. Plugin URI of the plugin
+#: easy-custom-branding.php
+msgid "https://github.com/snowbedding/easy-custom-branding"
+msgstr ""
+
+#. Description of the plugin
+#: easy-custom-branding.php
+msgid "A complete solution to customize your WordPress branding in the admin area and the login page."
+msgstr "一个完整的解决方案，用于自定义WordPress管理区域和登录页面的品牌标识。"
+
+#. Author of the plugin
+#: easy-custom-branding.php
+msgid "snowbedding"
+msgstr ""
+
+#. Author URI of the plugin
+#: easy-custom-branding.php
+msgid "https://github.com/snowbedding"
+msgstr ""
+
+#: easy-custom-branding.php:90
+msgid "Settings"
+msgstr "设置"
+
+#: includes/class-easy-custom-branding-settings.php:300
+msgid "WordPress.org Plugin Page"
+msgstr "WordPress.org 插件页面"

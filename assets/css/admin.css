@@ -1,0 +1,41 @@
+.easy-custom-branding-wrap .form-table {
+    margin-top: 20px;
+}
+
+.easy-custom-branding-wrap .form-table th {
+    width: 200px;
+    padding-left: 0;
+}
+
+.easy-custom-branding-wrap .form-table td {
+    padding-left: 10px;
+}
+
+.easy-custom-branding-wrap .large-text.code {
+    font-family: monospace;
+}
+
+.image-uploader-wrapper .button {
+    margin-left: 5px;
+}
+
+.easy-custom-branding-wrap .image-uploader-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.easy-custom-branding-wrap .image-uploader-wrapper .image-url-input {
+    width: 300px;
+    margin-right: 10px;
+}
+
+.easy-custom-branding-wrap .cb-settings-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.easy-custom-branding-wrap .cb-settings-links a {
+    margin-left: 10px;
+}

@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Custom Branding 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/snowbedding/easy-custom-branding/issues\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-11-10 01:40+0000\n"
+"PO-Revision-Date: 2025-11-10 01:40+0000\n"
+"Language: en_US\n"
+"X-Generator: Cursor\n"
+
+#. Plugin Name of the plugin
+#: easy-custom-branding.php
+#: includes/class-easy-custom-branding-settings.php:104
+#: includes/class-easy-custom-branding-settings.php:105
+msgid "Easy Custom Branding"
+msgstr "Easy Custom Branding"
+
+#: includes/class-easy-custom-branding-settings.php:118
+msgid "Login Page Customization"
+msgstr "Login Page Customization"
+
+#: includes/class-easy-custom-branding-settings.php:126
+msgid "Admin Area Customization"
+msgstr "Admin Area Customization"
+
+#: includes/class-easy-custom-branding-settings.php:134
+msgid "General Settings"
+msgstr "General Settings"
+
+#: includes/class-easy-custom-branding-settings.php:142
+msgid "Email Settings"
+msgstr "Email Settings"
+
+#: includes/class-easy-custom-branding-settings.php:149
+msgid "Admin Bar Logo"
+msgstr "Admin Bar Logo"
+
+#: includes/class-easy-custom-branding-settings.php:149
+msgid "Recommended size: 20x20 pixels."
+msgstr "Recommended size: 20x20 pixels."
+
+#: includes/class-easy-custom-branding-settings.php:150
+msgid "Admin Footer Text"
+msgstr "Admin Footer Text"
+
+#: includes/class-easy-custom-branding-settings.php:151
+msgid "Custom Admin Version Text"
+msgstr "Custom Admin Version Text"
+
+#: includes/class-easy-custom-branding-settings.php:151
+msgid "Replaces the WordPress version number in the bottom right corner of the admin area."
+msgstr "Replaces the WordPress version number in the bottom right corner of the admin area."
+
+#: includes/class-easy-custom-branding-settings.php:152
+msgid "Custom Admin CSS"
+msgstr "Custom Admin CSS"
+
+#: includes/class-easy-custom-branding-settings.php:153
+msgid "Hide Dashboard Widgets"
+msgstr "Hide Dashboard Widgets"
+
+#: includes/class-easy-custom-branding-settings.php:154
+msgid "At a Glance"
+msgstr "At a Glance"
+
+#: includes/class-easy-custom-branding-settings.php:155
+msgid "Activity"
+msgstr "Activity"
+
+#: includes/class-easy-custom-branding-settings.php:156
+msgid "Quick Draft"
+msgstr "Quick Draft"
+
+#: includes/class-easy-custom-branding-settings.php:157
+msgid "WordPress Events and News"
+msgstr "WordPress Events and News"
+
+#: includes/class-easy-custom-branding-settings.php:158
+msgid "Site Health Status"
+msgstr "Site Health Status"
+
+#: includes/class-easy-custom-branding-settings.php:159
+msgid "Welcome Panel"
+msgstr "Welcome Panel"
+
+#: includes/class-easy-custom-branding-settings.php:161
+msgid "Hide Admin Menu Items"
+msgstr "Hide Admin Menu Items"
+
+#: includes/class-easy-custom-branding-settings.php:161
+msgid "Hide selected menu items for all non-administrator users."
+msgstr "Hide selected menu items for all non-administrator users."
+
+#: includes/class-easy-custom-branding-settings.php:162
+msgid "Hide Help Tabs"
+msgstr "Hide Help Tabs"
+
+#: includes/class-easy-custom-branding-settings.php:163
+msgid "Hide Screen Options"
+msgstr "Hide Screen Options"
+
+#: includes/class-easy-custom-branding-settings.php:166
+msgid "Login Logo"
+msgstr "Login Logo"
+
+#: includes/class-easy-custom-branding-settings.php:167
+msgid "Login Logo Width"
+msgstr "Login Logo Width"
+
+#: includes/class-easy-custom-branding-settings.php:167
+msgid "Defaults to the uploaded image width. You can override it here."
+msgstr "Defaults to the uploaded image width. You can override it here."
+
+#: includes/class-easy-custom-branding-settings.php:168
+msgid "Login Logo Height"
+msgstr "Login Logo Height"
+
+#: includes/class-easy-custom-branding-settings.php:168
+msgid "Defaults to the uploaded image height. You can override it here."
+msgstr "Defaults to the uploaded image height. You can override it here."
+
+#: includes/class-easy-custom-branding-settings.php:169
+msgid "Login Logo Link"
+msgstr "Login Logo Link"
+
+#: includes/class-easy-custom-branding-settings.php:170
+msgid "Login Logo Screen Reader Text"
+msgstr "Login Logo Screen Reader Text"
+
+#: includes/class-easy-custom-branding-settings.php:170
+msgid "This text is used for screen readers and is not visually displayed."
+msgstr "This text is used for screen readers and is not visually displayed."
+
+#: includes/class-easy-custom-branding-settings.php:171
+msgid "Login Background Image"
+msgstr "Login Background Image"
+
+#: includes/class-easy-custom-branding-settings.php:172
+msgid "Form Background Color"
+msgstr "Form Background Color"
+
+#: includes/class-easy-custom-branding-settings.php:173
+msgid "Form Text Color"
+msgstr "Form Text Color"
+
+#: includes/class-easy-custom-branding-settings.php:174
+msgid "Button Background Color"
+msgstr "Button Background Color"
+
+#: includes/class-easy-custom-branding-settings.php:175
+msgid "Button Text Color"
+msgstr "Button Text Color"
+
+#: includes/class-easy-custom-branding-settings.php:176
+msgid "Custom Login CSS"
+msgstr "Custom Login CSS"
+
+#: includes/class-easy-custom-branding-settings.php:177
+msgid "Custom HTML"
+msgstr "Custom HTML"
+
+#: includes/class-easy-custom-branding-settings.php:177
+msgid "This content will be displayed below the login form."
+msgstr "This content will be displayed below the login form."
+
+#: includes/class-easy-custom-branding-settings.php:180
+msgid "From Name"
+msgstr "From Name"
+
+#: includes/class-easy-custom-branding-settings.php:181
+msgid "From Email Address"
+msgstr "From Email Address"
+
+#: includes/class-easy-custom-branding-settings.php:184
+msgid "Hide Admin Bar"
+msgstr "Hide Admin Bar"
+
+#: includes/class-easy-custom-branding-settings.php:184
+msgid "Hide the admin bar for all users except administrators on the frontend."
+msgstr "Hide the admin bar for all users except administrators on the frontend."
+
+#: includes/class-easy-custom-branding-settings.php:185
+msgid "Cleanup Header"
+msgstr "Cleanup Header"
+
+#: includes/class-easy-custom-branding-settings.php:185
+msgid "Remove unnecessary meta tags from the site header (e.g., WP version, RSD link)."
+msgstr "Remove unnecessary meta tags from the site header (e.g., WP version, RSD link)."
+
+#: includes/class-easy-custom-branding-settings.php:186
+msgid "Disable Password Strength Meter"
+msgstr "Disable Password Strength Meter"
+
+#: includes/class-easy-custom-branding-settings.php:186
+msgid "Disable the password strength meter on WooCommerce forms."
+msgstr "Disable the password strength meter on WooCommerce forms."
+
+#: includes/class-easy-custom-branding-settings.php:264
+msgid "Upload Image"
+msgstr "Upload Image"
+
+#: includes/class-easy-custom-branding-settings.php:266
+msgid "Remove"
+msgstr "Remove"
+
+#: includes/class-easy-custom-branding-settings.php:303
+msgid "GitHub Repository"
+msgstr "GitHub Repository"
+
+#: includes/class-easy-custom-branding-settings.php:311
+msgid "Save Settings"
+msgstr "Save Settings"
+
+#. Plugin URI of the plugin
+#: easy-custom-branding.php
+msgid "https://github.com/snowbedding/easy-custom-branding"
+msgstr ""
+
+#. Description of the plugin
+#: easy-custom-branding.php
+msgid "A complete solution to customize your WordPress branding in the admin area and the login page."
+msgstr ""
+
+#. Author of the plugin
+#: easy-custom-branding.php
+msgid "snowbedding"
+msgstr ""
+
+#. Author URI of the plugin
+#: easy-custom-branding.php
+msgid "https://github.com/snowbedding"
+msgstr ""
+
+#: easy-custom-branding.php:90
+msgid "Settings"
+msgstr ""
+
+#: includes/class-easy-custom-branding-settings.php:300
+msgid "WordPress.org Plugin Page"
+msgstr ""
